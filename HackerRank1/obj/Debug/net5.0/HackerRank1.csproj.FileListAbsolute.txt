@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.dll
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\ref\HackerRank1.dll
+C:\Users\User\Desktop\code learners hub\HackerRank1\HackerRank1\obj\Debug\net5.0\HackerRank1.pdb
